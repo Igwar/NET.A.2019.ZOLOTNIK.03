@@ -1,0 +1,5 @@
+C:\Users\Евгений\source\repos\ConvertToIEEE754Lib\ConvertToIEEE754Lib\bin\Debug\ConvertToIEEE754Lib.dll
+C:\Users\Евгений\source\repos\ConvertToIEEE754Lib\ConvertToIEEE754Lib\bin\Debug\ConvertToIEEE754Lib.pdb
+C:\Users\Евгений\source\repos\ConvertToIEEE754Lib\ConvertToIEEE754Lib\obj\Debug\ConvertToIEEE754Lib.csproj.CoreCompileInputs.cache
+C:\Users\Евгений\source\repos\ConvertToIEEE754Lib\ConvertToIEEE754Lib\obj\Debug\ConvertToIEEE754Lib.dll
+C:\Users\Евгений\source\repos\ConvertToIEEE754Lib\ConvertToIEEE754Lib\obj\Debug\ConvertToIEEE754Lib.pdb
