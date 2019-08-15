@@ -1,0 +1,6 @@
+D:\Курсы епам\GCDLib\GCDLib\bin\Debug\GCDLib.dll
+D:\Курсы епам\GCDLib\GCDLib\bin\Debug\GCDLib.pdb
+D:\Курсы епам\GCDLib\GCDLib\obj\Debug\GCDLib.csprojResolveAssemblyReference.cache
+D:\Курсы епам\GCDLib\GCDLib\obj\Debug\GCDLib.csproj.CoreCompileInputs.cache
+D:\Курсы епам\GCDLib\GCDLib\obj\Debug\GCDLib.dll
+D:\Курсы епам\GCDLib\GCDLib\obj\Debug\GCDLib.pdb

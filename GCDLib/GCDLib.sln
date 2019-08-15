@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GCDLib", "GCDLib\GCDLib.csproj", "{C8CD73F6-3BE3-4D8C-A6B8-1A477C2F149E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GCDLibTests", "GCDLibTests\GCDLibTests.csproj", "{21769F0D-A78C-4086-9A8F-EA80B1B22CC7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C8CD73F6-3BE3-4D8C-A6B8-1A477C2F149E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C8CD73F6-3BE3-4D8C-A6B8-1A477C2F149E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C8CD73F6-3BE3-4D8C-A6B8-1A477C2F149E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C8CD73F6-3BE3-4D8C-A6B8-1A477C2F149E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{21769F0D-A78C-4086-9A8F-EA80B1B22CC7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{21769F0D-A78C-4086-9A8F-EA80B1B22CC7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{21769F0D-A78C-4086-9A8F-EA80B1B22CC7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{21769F0D-A78C-4086-9A8F-EA80B1B22CC7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {58CD44C8-5655-4546-87F5-01EEBB55EB7C}
+	EndGlobalSection
+EndGlobal

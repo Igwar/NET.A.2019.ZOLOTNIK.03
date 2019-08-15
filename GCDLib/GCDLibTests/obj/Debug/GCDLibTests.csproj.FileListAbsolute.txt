@@ -1,0 +1,10 @@
+D:\Курсы епам\GCDLib\GCDLibTests\bin\Debug\GCDLibTests.dll
+D:\Курсы епам\GCDLib\GCDLibTests\bin\Debug\GCDLibTests.pdb
+D:\Курсы епам\GCDLib\GCDLibTests\bin\Debug\GCDLib.dll
+D:\Курсы епам\GCDLib\GCDLibTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\Курсы епам\GCDLib\GCDLibTests\bin\Debug\GCDLib.pdb
+D:\Курсы епам\GCDLib\GCDLibTests\bin\Debug\ru\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
+D:\Курсы епам\GCDLib\GCDLibTests\obj\Debug\GCDLibTests.csprojResolveAssemblyReference.cache
+D:\Курсы епам\GCDLib\GCDLibTests\obj\Debug\GCDLibTests.csproj.CoreCompileInputs.cache
+D:\Курсы епам\GCDLib\GCDLibTests\obj\Debug\GCDLibTests.dll
+D:\Курсы епам\GCDLib\GCDLibTests\obj\Debug\GCDLibTests.pdb
