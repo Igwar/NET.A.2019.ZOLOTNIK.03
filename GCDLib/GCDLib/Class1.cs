@@ -29,6 +29,10 @@ namespace GCDLib
 
             }
             a = b.ToArray();
+            if (a.Length == 0) {
+
+                throw new Exception("In array was only 0");
+            }
             for (int i = 0; i <= a.Length - 2; i++)
             {
 

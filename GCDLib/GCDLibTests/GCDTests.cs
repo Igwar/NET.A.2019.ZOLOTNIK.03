@@ -47,5 +47,24 @@ namespace GCDLib.Tests
             long time = 0;
             Assert.AreEqual(4, GCD.SteinGCD(out time, 252, 4424, 1080, 0));
         }
+        [TestMethod()]
+        public void SteinGCDExpected2()
+        {
+            long time = 0;
+            Assert.AreEqual(2, GCD.SteinGCD(out time, 2));
+        }
+        [TestMethod()]
+        public void GCDEuclideanExpected2()
+        {
+            long time = 0;
+            Assert.AreEqual(2, GCD.GCDEuclidean(out time,2));
+        }
+        [TestMethod()]
+        public void SteinGCDExpected0()
+        {
+            long time = 0;
+            Assert.AreEqual(0, GCD.SteinGCD(out time, 0));
+        }
+       
     }
 }
