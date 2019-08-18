@@ -1,0 +1,10 @@
+D:\Курсы епам\ConvertToIEEE754Lib\ConvertToIEEE754LibTests\bin\Debug\ConvertToIEEE754LibTests.dll
+D:\Курсы епам\ConvertToIEEE754Lib\ConvertToIEEE754LibTests\bin\Debug\ConvertToIEEE754LibTests.pdb
+D:\Курсы епам\ConvertToIEEE754Lib\ConvertToIEEE754LibTests\bin\Debug\ConvertToIEEE754Lib.dll
+D:\Курсы епам\ConvertToIEEE754Lib\ConvertToIEEE754LibTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\Курсы епам\ConvertToIEEE754Lib\ConvertToIEEE754LibTests\bin\Debug\ConvertToIEEE754Lib.pdb
+D:\Курсы епам\ConvertToIEEE754Lib\ConvertToIEEE754LibTests\bin\Debug\ru\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
+D:\Курсы епам\ConvertToIEEE754Lib\ConvertToIEEE754LibTests\obj\Debug\ConvertToIEEE754LibTests.csprojResolveAssemblyReference.cache
+D:\Курсы епам\ConvertToIEEE754Lib\ConvertToIEEE754LibTests\obj\Debug\ConvertToIEEE754LibTests.csproj.CoreCompileInputs.cache
+D:\Курсы епам\ConvertToIEEE754Lib\ConvertToIEEE754LibTests\obj\Debug\ConvertToIEEE754LibTests.dll
+D:\Курсы епам\ConvertToIEEE754Lib\ConvertToIEEE754LibTests\obj\Debug\ConvertToIEEE754LibTests.pdb

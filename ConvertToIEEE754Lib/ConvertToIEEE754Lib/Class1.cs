@@ -13,9 +13,16 @@ namespace ConvertToIEEE754Lib
         /// </summary>
         /// <param name=" a">double variable</param>
         /// 
-        public static string final(this double a)
+        public static string ConvertIEE754(this double a)
         {
             string str = "";
+      
+        
+            if (a == 0)
+                return "0000000000000000000000000000000000000000000000000000000000000000";
+            
+
+         
             if (a > 0)
                 str = str + '0';
             else
@@ -38,12 +45,18 @@ namespace ConvertToIEEE754Lib
                 str = str + strmas[0][i];
             }
             str = str + strmas[1];
-            for (int i = 1; i <= (23 - (strmas[0].Length + strmas[1].Length)); i++)
+            for (int i = 1; i <= (55- (strmas[0].Length + strmas[1].Length)); i++)
             {
                 str = str + "0";
 
             }
-            Console.WriteLine(str.Length);
+
+
+
+            if (str.Length > 64)
+            {
+                str = str.Remove(63, str.Length - 64);
+            }
             return str;
 
         }
@@ -77,7 +90,7 @@ namespace ConvertToIEEE754Lib
                 k = k / 2;
 
             }
-            for (int i = 0; i < 64; i++)
+            for (int i = 0; i < 45; i++)
             {
                 d = (d * 2);
 
